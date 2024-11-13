@@ -25,3 +25,9 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 
+/*
+### Key Insights:
+- The highest-paying data scientist role in this list is the **Geographic Information Systems Analyst** at **ReServe**, with a salary of **$585,000**.
+- The majority of roles are full-time, indicating a strong demand for full-time data scientist positions.
+- Snap Inc. offers multiple high-paying roles for **Engineering Data Scientists**, showcasing the company's continued investment in data science talent.
+*/

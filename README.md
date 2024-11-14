@@ -110,7 +110,7 @@ ORDER BY
 
 These insights suggest that **Python**, **SQL**, and **R** are the most highly valued skills among high-paying data scientist roles, with other technical skills like **Spark** and **Excel** also being important.
 
-![Top Paying Roles](assets\skills_in_top_paying_jobs.jpg)
+![Top Paying Roles](/assets/skills_in_top_paying_jobs.jpg)
 *Bar graph visualizing the salary for the top 10 salaries for data scientist; ChatGPT generated this graph from my SQL query results*
 
 

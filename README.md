@@ -150,19 +150,9 @@ LIMIT 5;
 
 - **Skill Prioritization**: For those entering data science or analytics, Python and SQL should be top priorities, followed by R and cloud skills like AWS, to align with industry demands.
 
-## Skills Demand Table
+![High Demand for Core Skills](/assets/In-Demand%20Skills%20for%20Data%20Scientists.png)
 
-| Skill    | Number of Job Postings |
-|----------|------------------------|
-| Python   | 1,487                  |
-| SQL      | 1,146                  |
-| R        | 826                    |
-| Tableau  | 394                    |
-| AWS      | 360                    |
-
-
-
-*Table of the demand for the top 5 skills in data secientist job postings*
+*this pie chart illustrates the demand for the top 5 skills in data secientist job postings*
 
 ### 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
@@ -313,7 +303,7 @@ This project has been a rewarding experience, turning foundational SQL technique
 ### Insights
 From the analysis, several general insights emerged:
 
-1. **Top-Paying Data Analyst Jobs**: The ***highest-paying role is $585,000**** annually, showcasing niche data science fields' earning potential.Demand for permanent data science positions higher than contract or part-time work, providing job stability.
+1. **Top-Paying Data Analyst Jobs**: The ***highest-paying role is $585,000**** annually, showcasing niche data science fields' earning potential. Demand for permanent data science positions higher than contract or part-time work, providing job stability.
 
 2. **Skills for Top-Paying Jobs**: **Python**, **SQL**, and **R** are the most highly valued skills among high-paying data scientist roles, with other technical skills like **Spark** and **Excel** also being important.
 
@@ -325,8 +315,6 @@ From the analysis, several general insights emerged:
 
 
 ### Closing Thoughts
-
-## Final Thoughts
 
 This course helped me progress from SQL fundamentals to advanced techniques, significantly enhancing my data analysis capabilities. My project on the Job Market for Data Scientist provided valuable insights into high-paying roles and the key skills that are in demand. The findings serve as a roadmap for skill development, enabling aspiring data analysts to focus on the most sought-after skills in the job market. By prioritizing these high-demand, high-salary skills, professionals can position themselves more competitively. This project reinforced the importance of continuous learning and staying adaptable to evolving trends in data analytics.
 
